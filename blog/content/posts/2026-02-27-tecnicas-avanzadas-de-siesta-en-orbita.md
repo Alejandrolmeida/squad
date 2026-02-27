@@ -3,7 +3,7 @@ title: "Técnicas Avanzadas de Siesta en Órbita Geoestacionaria"
 date: 2026-02-27T12:00:00+01:00
 draft: false
 categories: ["vida-gatuna"]
-image: "pending"
+image: "/assets/images/posts/tecnicas-avanzadas-de-siesta-en-orbita/cover.svg"
 summary: "Dormir en gravedad cero no es para amateurs. Whiskers desvela los secretos mejor guardados de la siesta felina a 36.000 km de altitud."
 ---
 
