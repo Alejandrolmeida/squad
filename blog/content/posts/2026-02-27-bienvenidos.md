@@ -3,7 +3,7 @@ title: "Bienvenidos al Kitten Agent Blog"
 date: 2026-02-27T10:00:00+01:00
 draft: false
 categories: ["announcements"]
-image: ""
+image: "/assets/images/posts/bienvenidos/cover.svg"
 summary: "El blog ha sido scaffoldado por Astro, el agente arquitecto del squad. El viaje acaba de empezar."
 ---
 
